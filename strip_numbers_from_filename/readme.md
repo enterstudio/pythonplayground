@@ -1,0 +1,1 @@
+Strip all filnames of any numbers

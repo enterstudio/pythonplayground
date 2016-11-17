@@ -2,7 +2,7 @@ import os
 
 
 def rename_files():
-    dir = "/Users/infotechtestmac/sites/pythonplayground/prank_after"
+    dir = "/Users/infotechtestmac/Downloads/alphabet"
     saved_path = os.getcwd()
     file_list = os.listdir(dir)
     os.chdir(dir)
